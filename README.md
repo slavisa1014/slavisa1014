@@ -1,9 +1,25 @@
-## Hi there 👋
+# Skills:
+- Angular, React, TypeScript, RxJS, Ngrx, Redux, Angular Material
+- Bootstrap, HTML5, CSS3, SCSS, Tailwind, LESS
+- MongoDB, Firebase, MySQL
+- Postman, Swagger, Git, Github, Jira, Bitbucket, GitLab, Figma
 
-Frontend developer with 3+ years of experience, I mainly worked in frontend development field using React, Vue and Angular. 
+⭐ The success of your business depends on the people who work for you.. If you need an experienced, hardworking and responsible developer, then you have found the right person. I am an Angular Expert with 6 years of experience in Web development.
 
-My strong programming language is JavaScript and Python. 
+## What Makes us a good fit
+✅ You are looking for a developer to work on challenging problems
 
-API Integration, Figma to frontend, web scraping and automation was my main tasks nowadays. 
+✅ You are looking for out of the box ideas
 
-If you are running a small sized business, I can help you with my skills, I always read the project requirements in detail and try to deliver product in time. thanks for reading
+✅ You care about quality of the work
+
+## What do you get when working with me
+✅ Top Quality Code
+
+✅ Fast Execution
+
+✅ Transparency in development process
+
+✅ Reliable communication
+
+✅ Solutions that are tailor made according to your requirements
